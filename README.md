@@ -13,12 +13,14 @@
     
 💡 Highlighted Projects:
 
-Aerospace Rover: Project focused on the creation of a rover with aerospace applications.
+🤖 Aerospace Rover: Project focused on the creation of a rover with aerospace applications.
 
-Hardware Store Website: Development of a website to optimize sales and management for a family-run hardware store.
+🛠️ Hardware Store Website: Development of a website to optimize sales and management for a family-run hardware store.
+
+💾 C5 Database Migration: Successfully migrated a C5 CDMX system database to Azure using Huawei OceanStor Dorado technology.
     
 🎮 Interests:
 
   In my free time, I enjoy playing video games, exploring new technologies, and going for motorcycle rides.
 
-📍 Mexico City
+📍 Azcapotzalco, Mexico City
