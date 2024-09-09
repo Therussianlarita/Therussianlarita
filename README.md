@@ -21,6 +21,8 @@
     
 🎮 Interests:
 
-  In my free time, I enjoy playing video games, exploring new technologies, and going for motorcycle rides.
+  🏍️ In my free time, I enjoy playing video games, exploring new technologies, and going for motorcycle rides.
+  
+  🖨️ A passionate enthusiast of 3D design and printing, with a keen interest in exploring cutting-edge technologies and creating innovative solutions. Constantly seeking new challenges and opportunities to         push the boundaries of what's possible in the world of 3D modeling and additive manufacturing.
 
 📍 Azcapotzalco, Mexico City
