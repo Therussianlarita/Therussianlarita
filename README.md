@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there, Im Luis Gerardo 👋
 
-<!--
-**Therussianlarita/Therussianlarita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Telecommunications Engineer with experience in NOC support, system administration, and programming. I have worked on innovative projects such as the creation of aerospace rovers and the development of a website for a hardware store.
 
-Here are some ideas to get you started:
+🔧 Technical Skills:
+    Programming
+    Operating systems administration
+    Network maintenance
+    Virtualization
+    Git and GitHub
+    Task automation
+    Technical support and problem-solving
+    
+💡 Highlighted Projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Aerospace Rover: Project focused on the creation of a rover with aerospace applications.
+    Hardware Store Website: Development of a website to optimize sales and management for a family-run hardware store.
+    
+🎮 Interests:
+
+  In my free time, I enjoy playing video games, exploring new technologies, and going for motorcycle rides.
+
+📍 Mexico City
