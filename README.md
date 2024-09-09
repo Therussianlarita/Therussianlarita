@@ -14,6 +14,7 @@
 💡 Highlighted Projects:
 
 Aerospace Rover: Project focused on the creation of a rover with aerospace applications.
+
 Hardware Store Website: Development of a website to optimize sales and management for a family-run hardware store.
     
 🎮 Interests:
